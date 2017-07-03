@@ -1,5 +1,7 @@
 #### 心路历程
 
+[页面预览](https://aleenl.github.io/new-carousel/newCarouel.html)
+
 
 这个小DEMO耗时3天多一点，十分感谢遥远的国外的Antonio Petraglia提供的灵感，这个轮播效果是在Dribbble网站上看到的，效果看起来十分的简洁明了，实现起来也不是很难，有点jq基础都可以完成的内容，由于全屏轮播看起来有一点怪怪的，所以我就没使用全屏轮播，实现了视频里差不多，百分之80的效果。
 
